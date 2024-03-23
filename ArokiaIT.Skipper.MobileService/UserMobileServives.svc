@@ -1,0 +1,1 @@
+﻿<%@ ServiceHost Language="C#" Debug="true" Service="ArokiaIT.Skipper.MobileService.UserMobileServives" CodeBehind="UserMobileServives.svc.cs" %>
